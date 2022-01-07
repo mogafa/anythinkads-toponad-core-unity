@@ -8,7 +8,7 @@
     "unity"
   ],
   "dependencies": {
-
+    "com.google.external-dependency-manager": "1.2.167"
   },
   "author": "anythinkads",
   "name": "com.anythinkads.toponad.core.unity",
